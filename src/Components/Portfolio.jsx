@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My works on ArtStation 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "If you are interested in my work as a 3D Generalist, you can check it out on ArtStation",
+    url: "https://www.artstation.com/user-4818716",
   },
   {
-    title: "Web Development for Beginners",
+    title: "We made the game on itch.io for Sibirian Game Jam 2025",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "If you are interested in our game, you can check it out on itch.io. It is a 2D game named WhiteSnow10000.",
+    url: "https://neverluckysk.itch.io/our-game",
   },
   {
     title: "My Resume Site",
